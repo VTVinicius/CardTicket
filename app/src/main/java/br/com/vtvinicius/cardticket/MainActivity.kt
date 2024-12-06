@@ -278,6 +278,7 @@ fun TicketCard() {
                     modifier = Modifier
                         .fillMaxWidth()
                         .padding(16.dp),
+
                     verticalArrangement = Arrangement.Center
                 ) {
                     Text(
